@@ -41,3 +41,26 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    git clone https://github.com/surajsajwan00/Plant-Disease-Detection.git
    cd Plant-Disease-Detection
+
+2. **Install the Required Dependencies**
+   To install the required dependencies, use the following command:
+   ```bash
+   streamlit run app.py
+
+4. **Running the Streamlit Application**
+   Start the Streamlit server with the following command:
+      ```bash
+   streamlit run app.py
+
+## Future Development
+- **Mobile Application**: Develop a mobile app for real-time disease detection in the field.
+- **IoT Integration**: Integrate IoT devices for environmental monitoring.
+- **Expert Analysis**: Include expert analysis and recommendations for treatment.
+
+## Contributing
+Suraj singh Sajwan ([GitHub](https://github.com/surajsajwan00))
+
+## Acknowledgments
+- A big thanks to Kaggle for providing the "Plant Leaves Disease Dataset."
+- Inspiration for the project and guidance from online communities and mentors.
+

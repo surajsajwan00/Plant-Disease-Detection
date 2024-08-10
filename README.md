@@ -58,7 +58,7 @@ Before you begin, ensure you have met the following requirements:
 - **Expert Analysis**: Include expert analysis and recommendations for treatment.
 
 ## Contributing
-Suraj singh Sajwan ([GitHub](https://github.com/surajsajwan00))
+Suraj singh Sajwan-[GitHub](https://github.com/surajsajwan00)
 
 ## Acknowledgments
 - A big thanks to Kaggle for providing the "Plant Leaves Disease Dataset."

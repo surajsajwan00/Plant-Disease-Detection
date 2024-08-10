@@ -57,7 +57,7 @@ Before you begin, ensure you have met the following requirements:
 - **IoT Integration**: Integrate IoT devices for environmental monitoring.
 - **Expert Analysis**: Include expert analysis and recommendations for treatment.
 
-## Contributing
+## Author
 Suraj singh Sajwan-[GitHub](https://github.com/surajsajwan00)
 
 ## Acknowledgments
